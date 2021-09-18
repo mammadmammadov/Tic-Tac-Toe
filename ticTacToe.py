@@ -1,14 +1,3 @@
-'''
-Created on Sep 17, 2021
-
-@author: gulma
-'''
-'''1. Create a dictionary by assigning ' ' to the cells of the board.
-   2. Create a function for printing the border of the board
-   3. Write the body of the program
-   
-'''
-
 board={   '7':' ', '8':' ', '9': ' ' ,
           '4':' ', '5':' ', '6': ' ',
           '1':' ', '2':' ', '3': ' '
